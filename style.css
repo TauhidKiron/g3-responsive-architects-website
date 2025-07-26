@@ -232,7 +232,13 @@ footer{
         justify-items: center;
         gap: 50px;
     }
+    footer{
+        padding: 2px 4px;
+        margin: 2px;
+        margin-top: 30px;
+    }
 }
+
 
 /* Medium Size Device */
 @media screen and (min-width:577px) and (max-width:992px) {
